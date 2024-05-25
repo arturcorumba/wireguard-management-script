@@ -32,7 +32,7 @@ This Bash script was developed to facilitate the management of WireGuard servers
 
 ```
 bash
-git clone https://github.com/tckbrz/wireguard-management-script.git
+git clone https://github.com/arturcorumba/wireguard-management-script.git
 chmod +x wireguard_management.sh
 ./wireguard_management.sh
 ```
